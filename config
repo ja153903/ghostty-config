@@ -1,7 +1,7 @@
 theme = carbonfox
 
 font-family = MonaspiceKr Nerd Font
-font-thicken = false
+font-thicken = true
 font-size = 13
 
 adjust-cell-height = 15
