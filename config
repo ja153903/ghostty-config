@@ -2,7 +2,7 @@ theme = carbonfox
 
 font-family = MonaspiceKr Nerd Font
 font-thicken = false
-font-size = 12
+font-size = 13
 
 adjust-cell-height = 15
 
@@ -26,7 +26,9 @@ clipboard-write = allow
 
 # Keybinds
 keybind = ctrl+e>n=new_split:right
+keybind = ctrl+e>shift+n=new_split:left
 keybind = ctrl+e>d=new_split:down
+keybind = ctrl+e>shift+d=new_split:up
 
 keybind = ctrl+e>l=goto_split:right
 keybind = ctrl+e>h=goto_split:left
@@ -37,3 +39,5 @@ keybind = ctrl+e>shift+l=resize_split:right,50
 keybind = ctrl+e>shift+h=resize_split:left,50
 keybind = ctrl+e>shift+j=resize_split:down,50
 keybind = ctrl+e>shift+k=resize_split:up,50
+
+keybind = ctrl+e>equal=equalize_splits
