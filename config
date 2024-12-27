@@ -1,0 +1,24 @@
+theme = carbonfox
+font-family = MonaspiceKr Nerd Font
+font-thicken = false
+font-size = 12
+adjust-cell-height = 15
+cursor-style = block
+cursor-style-blink = true
+freetype-load-flags = no-hinting
+shell-integration = fish
+bold-is-bright = true
+
+# Keybinds
+keybind = ctrl+e>n=new_split:right
+keybind = ctrl+e>d=new_split:down
+
+keybind = ctrl+e>l=goto_split:right
+keybind = ctrl+e>h=goto_split:left
+keybind = ctrl+e>j=goto_split:bottom
+keybind = ctrl+e>k=goto_split:top
+
+keybind = ctrl+e>shift+l=resize_split:right,30
+keybind = ctrl+e>shift+h=resize_split:left,30
+keybind = ctrl+e>shift+j=resize_split:down,30
+keybind = ctrl+e>shift+k=resize_split:up,30
