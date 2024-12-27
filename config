@@ -1,10 +1,10 @@
 theme = carbonfox
 
-font-family = MonaspiceKr Nerd Font
+font-family = Berkeley Mono
 font-thicken = true
 font-size = 13
 
-adjust-cell-height = 15
+adjust-cell-height = 16
 
 cursor-style = block
 cursor-style-blink = true
@@ -16,7 +16,7 @@ shell-integration = fish
 bold-is-bright = true
 
 window-padding-x = 10
-window-padding-y = 5
+window-padding-y = 10
 
 macos-titlebar-style = tabs
 macos-option-as-alt = true
