@@ -8,6 +8,7 @@ cursor-style-blink = true
 freetype-load-flags = no-hinting
 shell-integration = fish
 bold-is-bright = true
+window-padding-x = 10
 
 # Keybinds
 keybind = ctrl+e>n=new_split:right
