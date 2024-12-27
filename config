@@ -1,14 +1,28 @@
 theme = carbonfox
+
 font-family = MonaspiceKr Nerd Font
 font-thicken = false
 font-size = 12
+
 adjust-cell-height = 15
+
 cursor-style = block
 cursor-style-blink = true
+
 freetype-load-flags = no-hinting
+
 shell-integration = fish
+
 bold-is-bright = true
+
 window-padding-x = 10
+window-padding-y = 5
+
+macos-titlebar-style = tabs
+macos-option-as-alt = true
+
+clipboard-read = allow
+clipboard-write = allow
 
 # Keybinds
 keybind = ctrl+e>n=new_split:right
