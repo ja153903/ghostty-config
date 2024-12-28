@@ -4,7 +4,7 @@ font-family = Berkeley Mono
 font-thicken = true
 font-size = 13
 
-adjust-cell-height = 16
+adjust-cell-height = 15
 
 cursor-style = block
 cursor-style-blink = true
