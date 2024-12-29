@@ -1,6 +1,6 @@
-theme = carbonfox
+theme = solarized_osaka
 
-font-family = Berkeley Mono
+font-family = MonoLisa
 font-thicken = true
 font-size = 12
 
