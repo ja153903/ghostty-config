@@ -15,7 +15,7 @@ shell-integration = fish
 
 bold-is-bright = true
 
-#window-padding-x = 10
+window-padding-x = 10
 #window-padding-y = 5
 
 macos-titlebar-style = tabs
@@ -25,19 +25,19 @@ clipboard-read = allow
 clipboard-write = allow
 
 # Keybinds
-keybind = ctrl+e>n=new_split:right
-keybind = ctrl+e>shift+n=new_split:left
-keybind = ctrl+e>d=new_split:down
-keybind = ctrl+e>shift+d=new_split:up
+keybind = opt+a>n=new_split:right
+keybind = opt+a>shift+n=new_split:left
+keybind = opt+a>d=new_split:down
+keybind = opt+a>shift+d=new_split:up
 
-keybind = ctrl+e>l=goto_split:right
-keybind = ctrl+e>h=goto_split:left
-keybind = ctrl+e>j=goto_split:bottom
-keybind = ctrl+e>k=goto_split:top
+keybind = opt+a>l=goto_split:right
+keybind = opt+a>h=goto_split:left
+keybind = opt+a>j=goto_split:bottom
+keybind = opt+a>k=goto_split:top
 
-keybind = ctrl+e>shift+l=resize_split:right,50
-keybind = ctrl+e>shift+h=resize_split:left,50
-keybind = ctrl+e>shift+j=resize_split:down,50
-keybind = ctrl+e>shift+k=resize_split:up,50
+keybind = opt+a>shift+l=resize_split:right,50
+keybind = opt+a>shift+h=resize_split:left,50
+keybind = opt+a>shift+j=resize_split:down,50
+keybind = opt+a>shift+k=resize_split:up,50
 
-keybind = ctrl+e>equal=equalize_splits
+keybind = opt+a>equal=equalize_splits
