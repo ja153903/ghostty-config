@@ -1,11 +1,11 @@
 theme = carbonfox
 
-font-family = MonoLisa Custom
+font-family = TX-02
 font-thicken = true
 font-feature = +liga
-font-size = 13
+font-size = 13.5
 
-adjust-cell-height = 15
+adjust-cell-height = 10
 
 cursor-style = block
 cursor-style-blink = true
