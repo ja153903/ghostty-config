@@ -1,8 +1,9 @@
 theme = carbonfox
 
-font-family = MonoLisa
+font-family = MonoLisa Custom
 font-thicken = true
-font-size = 13.5
+font-feature = +liga
+font-size = 13
 
 adjust-cell-height = 15
 
