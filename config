@@ -3,7 +3,7 @@ theme = tokyonight-storm
 font-family = TX-02
 font-thicken = true
 font-feature = +liga
-font-size = 12.5
+font-size = 15
 
 adjust-cell-height = 10
 
